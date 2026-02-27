@@ -56,7 +56,7 @@ cabal build
 
 ## Author
 
-bad-antics | [Discord](https://discord.gg/killers)
+bad-antics | [Twitter](https://x.com/AnonAntics)
 
 ## License
 
